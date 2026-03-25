@@ -1,6 +1,11 @@
-def main():
-    print("Hello from ollama-mcp-to-db!")
+from dotenv import load_dotenv
+import ollama
+
+load_dotenv()
+
+def test():
+    return False
 
 
 if __name__ == "__main__":
-    main()
+    test()
