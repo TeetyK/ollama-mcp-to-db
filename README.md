@@ -5,7 +5,3 @@ and it can using CRUD concept with Chat
 ```bash
 uv run streamlit run main.py
 ```
-# Result
-<a href="./test.pdf">
-  <img src="./" width="600" alt="คลิก">
-</a>
